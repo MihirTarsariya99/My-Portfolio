@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thanks for visiing my page!
 
-Template Name: Kelly
-Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+I have created this page using BootstrapMade.
+
+Thank you!
